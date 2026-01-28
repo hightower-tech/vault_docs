@@ -14,4 +14,4 @@ At its core, VAULT enables users to **securely generate and manage their own pri
 
 All transactions are powered by our **gasless engine**, which covers network fees on behalf of users. Instead of requiring native tokens, the system delegates blockchain energy, allowing seamless and low-friction transfers.
 
-Users can perform up to **three free transactions per day**, with additional transactions processed at minimal cost through the delegated energy model.
+Users can perform up to **three free transactions per day**, with additional transactions processed at minimal cost through the delegated energy model
