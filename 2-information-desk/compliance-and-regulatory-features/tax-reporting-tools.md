@@ -1,0 +1,3 @@
+# Tax Reporting Tools
+
+VAULT Wallet provides tools to help users comply with tax regulations related to their crypto transactions. Users can generate detailed reports of their transaction history, including dates, amounts, and types of transactions. The wallet supports exporting this data in formats compatible with tax software, simplifying the reporting process. Additionally, the wallet offers guidelines and resources to help users understand their tax obligations. These tools ensure that users can accurately report their crypto activities and avoid potential legal issues. By offering comprehensive tax reporting features, VAULT Wallet supports users in meeting their regulatory responsibilities.
